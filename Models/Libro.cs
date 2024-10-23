@@ -6,7 +6,7 @@ namespace BibliotecaDtiC.Models
     {
         [Display(Name = "Identificador")]
         public int Id { get; set; }
-        [Display(Name = "Título")]
+        [Display(Name = "Título (máximo 20 caracteres)")]
         [Required(ErrorMessage = "El titulo del libro es obligatorio.")]
         [StringLength(20, ErrorMessage = "El nombre de usuario no puede exceder los 20 caracteres.")]
         public string Titulo { get; set; }
