@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|c:\\users\\dlecaros\\desktop\\bilbiotecadtic\\bibliotecadtic\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|solutionrelative:models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|c:\\users\\dlecaros\\desktop\\bilbiotecadtic\\bibliotecadtic\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|solutionrelative:models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|c:\\users\\dlecaros\\desktop\\bilbiotecadtic\\bibliotecadtic\\controllers\\prestamoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|solutionrelative:controllers\\prestamoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|c:\\users\\dlecaros\\desktop\\bilbiotecadtic\\bibliotecadtic\\views\\prestamoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|solutionrelative:views\\prestamoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|c:\\users\\dlecaros\\desktop\\bilbiotecadtic\\bibliotecadtic\\views\\prestamoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|solutionrelative:views\\prestamoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|c:\\users\\dlecaros\\desktop\\bilbiotecadtic\\bibliotecadtic\\views\\libroes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|solutionrelative:views\\libroes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|c:\\users\\dlecaros\\desktop\\bilbiotecadtic\\bibliotecadtic\\views\\libroes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|solutionrelative:views\\libroes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|c:\\users\\dlecaros\\desktop\\bilbiotecadtic\\bibliotecadtic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +39,12 @@
       "RelativeMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|solutionrelative:data\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|c:\\users\\dlecaros\\desktop\\bilbiotecadtic\\bibliotecadtic\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|solutionrelative:models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|c:\\users\\dlecaros\\desktop\\bilbiotecadtic\\bibliotecadtic\\controllers\\libroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|solutionrelative:controllers\\libroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|c:\\users\\dlecaros\\desktop\\bilbiotecadtic\\bibliotecadtic\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|solutionrelative:models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|c:\\users\\dlecaros\\desktop\\bilbiotecadtic\\bibliotecadtic\\models\\clasificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|solutionrelative:models\\clasificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|c:\\users\\dlecaros\\desktop\\bilbiotecadtic\\bibliotecadtic\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|solutionrelative:models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|c:\\users\\dlecaros\\desktop\\bilbiotecadtic\\bibliotecadtic\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C34E8CB1-6FDF-457B-AD65-49B94C254603}|BibliotecaDtiC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 175,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 24,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,20 +114,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Views\\Prestamoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Prestamoes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Views\\Prestamoes\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Prestamoes\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T14:48:58.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Views\\Prestamoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Prestamoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Views\\Prestamoes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Prestamoes\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T14:29:56.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrestamoesController.cs",
+              "DocumentMoniker": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Controllers\\PrestamoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PrestamoesController.cs",
+              "ToolTip": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Controllers\\PrestamoesController.cs",
+              "RelativeToolTip": "Controllers\\PrestamoesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:27:17.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Views\\Libroes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libroes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Views\\Libroes\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Libroes\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T14:24:05.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Views\\Libroes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libroes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Views\\Libroes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Libroes\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T14:21:11.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T14:19:47.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibroesController.cs",
+              "DocumentMoniker": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Controllers\\LibroesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibroesController.cs",
+              "ToolTip": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Controllers\\LibroesController.cs",
+              "RelativeToolTip": "Controllers\\LibroesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:19:18.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T13:53:36.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "BibliotecaContext.cs",
               "DocumentMoniker": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Data\\BibliotecaContext.cs",
               "RelativeDocumentMoniker": "Data\\BibliotecaContext.cs",
@@ -120,52 +231,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Clasificacion.cs",
-              "DocumentMoniker": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Models\\Clasificacion.cs",
-              "RelativeDocumentMoniker": "Models\\Clasificacion.cs",
-              "ToolTip": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Models\\Clasificacion.cs",
-              "RelativeToolTip": "Models\\Clasificacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T13:30:22.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Prestamo.cs",
               "DocumentMoniker": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Models\\Prestamo.cs",
               "RelativeDocumentMoniker": "Models\\Prestamo.cs",
               "ToolTip": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Models\\Prestamo.cs",
               "RelativeToolTip": "Models\\Prestamo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T13:27:40.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Autor.cs",
-              "DocumentMoniker": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Models\\Autor.cs",
-              "RelativeDocumentMoniker": "Models\\Autor.cs",
-              "ToolTip": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Models\\Autor.cs",
-              "RelativeToolTip": "Models\\Autor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T13:26:44.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Models\\Libro.cs",
               "RelativeDocumentMoniker": "Models\\Libro.cs",
               "ToolTip": "C:\\Users\\dlecaros\\Desktop\\bilbiotecaDtic\\BibliotecaDtiC\\Models\\Libro.cs",
               "RelativeToolTip": "Models\\Libro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T13:26:34.392Z",
               "EditorCaption": ""

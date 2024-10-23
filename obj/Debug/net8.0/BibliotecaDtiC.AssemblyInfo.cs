@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("91b90b57-be17-4411-9ba5-5da635a79c99")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BibliotecaDtiC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa4b852b043fb1611cc35a035f91e42a05c3d198")]
 [assembly: System.Reflection.AssemblyProductAttribute("BibliotecaDtiC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BibliotecaDtiC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
